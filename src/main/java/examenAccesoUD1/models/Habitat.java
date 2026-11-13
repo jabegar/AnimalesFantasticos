@@ -1,0 +1,29 @@
+package examenAccesoUD1.models;
+
+public class Habitat {
+	private String region;
+	private String clima;
+	
+	public Habitat(String region, String clima) {
+		super();
+		this.region = region;
+		this.clima = clima;
+	}
+
+	public String getRegion() {
+		return region;
+	}
+
+	public void setRegion(String region) {
+		this.region = region;
+	}
+
+	public String getClima() {
+		return clima;
+	}
+
+	public void setClima(String clima) {
+		this.clima = clima;
+	}
+	
+}

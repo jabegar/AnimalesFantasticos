@@ -1,0 +1,16 @@
+nombre;tipo;inmortal;peligrosidad;magia;region;clima
+Banshee;ESPIRITU;true;70;65;Irlanda;lluvioso
+Basilisco;BESTIA;false;95;60;Grecia;templado
+Bicho malo;BESTIA;false;50;50;Rivendell;arido
+Duende;SER;false;15;45;Irlanda;lluvioso
+Esfinge;SER;true;60;80;Egipto;árido
+Fantasma;ESPIRITU;true;25;55;Inglaterra;lluvioso
+Fénix;BESTIA;true;20;90;Egipto;árido
+Golem;SER;false;55;0;Chequia;continental
+Hipogrifo;BESTIA;false;40;30;Escocia;frío
+Kelpie;BESTIA;false;65;40;Escocia;lluvioso
+Kraken;BESTIA;false;90;25;Noruega;frío
+Sirena;SER;false;35;50;Grecia;templado
+Trol;SER;false;75;5;Noruega;frío
+Unicornio;BESTIA;false;5;85;Escocia;frío
+Wendigo;ESPIRITU;true;100;40;Canadá;frío
